@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_config.yml
+Disallow: /README.md
+Disallow: /CNAME
+Disallow: /style/
